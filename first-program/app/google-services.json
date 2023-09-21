@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1085844019733",
+    "project_id": "pokedex-558a4",
+    "storage_bucket": "pokedex-558a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085844019733:android:3316e8ce9513d1bfd20c1c",
+        "android_client_info": {
+          "package_name": "com.example.glidepicture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085844019733-rihnjcqgmpupg123k3saj506uefkmun8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqUAPcUr6xrD55roUZCljb07oGoMfuaOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085844019733-rihnjcqgmpupg123k3saj506uefkmun8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid
+        android:color="#76B4FF"/> <!--your desired colour for solid-->
+
+    <stroke
+        android:width="0dp"
+        android:color="#FFE500" /> <!--your desired colour for border-->
+
+    <corners
+        android:radius="30dp"
+        android:bottomLeftRadius="50dp"
+        android:bottomRightRadius="50dp"
+        android:topLeftRadius="0dp"
+        android:topRightRadius="0dp"
+        /> <!--shape rounded value-->
+
+
+</shape>
